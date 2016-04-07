@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - monitoreo@127.0.0.1" uuid="411dee45-158c-49fb-a354-663a2c0f2a73">
+      <secret-storage>master_key</secret-storage>
+      <user-name>hernan</user-name>
+      <schema-pattern>monitoreo.pg_catalog monitoreo.public</schema-pattern>
+      <default-schemas>monitoreo.pg_catalog monitoreo.public</default-schemas>
+    </data-source>
+  </component>
+</project>
